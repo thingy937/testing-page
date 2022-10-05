@@ -9,7 +9,7 @@
     <h1>
       Current Score:
       <script type="text/javascript">
-        document.write(number)
+        document.write(score)
       </script>
     </h1>
 </body>
