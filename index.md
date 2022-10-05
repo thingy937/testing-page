@@ -1,13 +1,13 @@
 <html>
 <head>
   <script type="text/javascript">
-    var number = 123;
+    var score = 123;
   </script>
 </head>
 
 <body>
     <h1>
-      the value for number is:
+      Current Score:
       <script type="text/javascript">
         document.write(number)
       </script>
